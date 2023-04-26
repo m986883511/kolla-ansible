@@ -20,3 +20,7 @@ host_os_distributions:
   Ubuntu:
     - "focal"
     - "jammy"
+  Kylin Linux Advanced Server:
+    - "Kylin Linux Advanced Server"
+    - "V10"
+    - "Sword"
