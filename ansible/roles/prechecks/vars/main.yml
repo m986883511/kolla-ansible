@@ -9,6 +9,12 @@ ansible_version_max: '2.13'
 # versions (ansible_facts.distribution_version or ansible_facts.distribution_major_version)
 # for that distribution.
 host_os_distributions:
+  Fedora:
+    - "34"
+    - "35"
+    - "36"
+    - "37"
+    - "38"
   CentOS:
     - "9"
   Debian:
